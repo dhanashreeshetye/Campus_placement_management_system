@@ -1,1 +1,2 @@
-
+Campus Placement Management system
+Student registration
